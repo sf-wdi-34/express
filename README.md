@@ -73,7 +73,7 @@ V8, the JavaScript engine that runs Chrome, is a piece of code written in C++. I
 
 
 ### Express JS
-Express is a cutting-edge, unopinionated, server-side JavaScript framework that runs on a Node.js server. It is a popular framework with a bevy of modules you can add to it. Node is the platform and Express provides the specific functionality. If you were building a house rather than a server, Node would be the foundation and utilities, express would be the building material that comprises the above ground building.
+Express is a cutting-edge, unopinionated, server-side JavaScript framework that runs on a Node.js server. Node is the platform and Express provides the specific functionality. If you were building a house rather than a server, Node would be the foundation and utilities, express would be the building material that comprises the above ground building.
 
 ![image](https://cloud.githubusercontent.com/assets/6520345/18060592/f5954682-6dd3-11e6-99ba-5dc0b42a4ff8.png)
 
