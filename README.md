@@ -146,7 +146,7 @@ Note that the `app` object has a method called `.get()` which takes two argument
 
 ### Game Plan
 
-Today's <a href="https://github.com/sf-wdi-31/express-intro" target="_blank">exercises</a> are set up a bit like a tutorial to walk you through:
+Today's <a href="https://github.com/sf-wdi-34/express-intro" target="_blank">exercises</a> are set up a bit like a tutorial to walk you through:
 
   * creating a new project with Node and Express
   * creating routes for clients to make requests to your server
